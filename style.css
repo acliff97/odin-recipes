@@ -1,0 +1,43 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+.header{
+    color: black;
+    font-size: xx-large;
+    font-weight: ligh;
+    text-align: center;
+}
+
+.links{
+    color: red;
+    font-size: medium;
+    text-align: center;
+}
+
+p{
+    color: red;
+    text-align: center;
+}
+
+h2{
+    color: blueviolet;
+    text-align: center;
+}
+
+h3{
+    color: aqua;
+}
+
+ol{
+    color: green;
+}
+
+ul{
+    color: bisque;
+}
+
+img{
+    display: block;
+    padding: 30px
+}
